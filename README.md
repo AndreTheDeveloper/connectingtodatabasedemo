@@ -1,1 +1,1 @@
-This is a react front end with express as the backend showcasing a simple form where the user can see if the credentials are in the database, the user can also add a new user to the database and the front end automatically updates and displays all the users from the database
+This is a react front end with express as the backend using mySQL as the database showcasing a simple form where the user can see if the credentials are in the database, the user can also add a new user to the database and the front end automatically updates and displays all the users from the database
